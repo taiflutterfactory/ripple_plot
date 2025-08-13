@@ -1,4 +1,4 @@
-# interview_test_project
+# ripple_plot
 
 Interview Test
 
